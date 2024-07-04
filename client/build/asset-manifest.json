@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e5966f38.css",
+    "main.js": "/static/js/main.37de5110.js",
+    "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
+    "static/media/microsoft_logo.svg": "/static/media/microsoft_logo.564db913a7fa0ca42727161c6d031bef.svg",
+    "static/media/signin.svg": "/static/media/signin.3f601c4ad6e9cad1ae70133ebb19f952.svg",
+    "index.html": "/index.html",
+    "static/media/arrow.svg": "/static/media/arrow.43280e0ba671a1d8b5e34f1931c4fe4b.svg",
+    "main.e5966f38.css.map": "/static/css/main.e5966f38.css.map",
+    "main.37de5110.js.map": "/static/js/main.37de5110.js.map",
+    "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5966f38.css",
+    "static/js/main.37de5110.js"
+  ]
+}
